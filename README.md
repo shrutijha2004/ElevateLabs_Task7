@@ -14,6 +14,7 @@ This task focuses on creating and using views in a library database. Demonstrate
 
 ## 💡 Hints  
 1.Use CREATE VIEW with complex SELECT
+
 2.Use views for abstraction and security
 
 ---
